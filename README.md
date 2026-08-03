@@ -1,16 +1,174 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DRAGNEEL-LEO/DRAGNEEL-LEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Asad Uz Zaman
 
-Here are some ideas to get you started:
+### 💻 CSE Student | Web Developer | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/DRAGNEEL-LEO">
+    <img src="https://img.shields.io/badge/GitHub-DRAGNEEL--LEO-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/asadleo/">
+    <img src="https://img.shields.io/badge/LinkedIn-Asad%20Uz%20Zaman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dragneel-leo.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/DRAGNEEL-LEO/DRAGNEEL-LEO/main/assets/coding.gif">
+
+## 🚀 About Me
+
+I'm **Asad Uz Zaman**, a Computer Science & Engineering student passionate about building practical software and exploring modern technologies.
+
+* 🎓 Computer Science & Engineering Student
+* 💻 Interested in **Web Development & Software Engineering**
+* 🌱 Currently exploring **Full-Stack & Backend Development**
+* 🤖 Interested in **AI-powered applications**
+* 🔍 Always learning and experimenting with new technologies
+* 🚀 Building projects to turn ideas into real-world applications
+* 🤝 Open to collaboration and interesting projects
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,vercel" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 Object Detection & Tracking
+
+An object detection and tracking project focused on identifying and tracking objects using computer vision techniques.
+
+**Tech:** `Python` `Computer Vision` `Object Detection`
+
+🔗 **[View Project →](https://github.com/DRAGNEEL-LEO/-CodeAlpha_Object-Detection-and-Tracking-)**
+
+---
+
+### 🌍 Language Translation Tool
+
+A language translation application designed to translate text between different languages using modern programming techniques and translation services.
+
+**Tech:** `Python` `Translation API`
+
+🔗 **[View Project →](https://github.com/DRAGNEEL-LEO/CodeAlpha_Language-Translation-Tool)**
+
+---
+
+## 🌐 My Portfolio
+
+<div align="center">
+
+### ✨ Explore My Work & Projects
+
+<a href="https://dragneel-leo.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DRAGNEEL-LEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAGNEEL-LEO&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DRAGNEEL-LEO&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DRAGNEEL-LEO/DRAGNEEL-LEO/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 📈 My Developer Journey
+
+```text
+🌱 Learning
+    ↓
+💻 Building Projects
+    ↓
+🧠 Solving Problems
+    ↓
+🚀 Improving Skills
+    ↓
+🌎 Building Real-World Solutions
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/asadleo/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://dragneel-leo.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:zamanasad1481@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+⭐ **If you find my projects interesting, feel free to explore my repositories!**
+
+</div>
+
