@@ -96,33 +96,11 @@ A language translation application designed to translate text between different 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DRAGNEEL-LEO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAGNEEL-LEO&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=DRAGNEEL-LEO&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DRAGNEEL-LEO/DRAGNEEL-LEO/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
