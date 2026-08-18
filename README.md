@@ -49,7 +49,7 @@ I'm **Asad Uz Zaman**, a Computer Science & Engineering student passionate about
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java" />
 </p>
 
 ### 🌐 Web Development
@@ -61,7 +61,7 @@ I'm **Asad Uz Zaman**, a Computer Science & Engineering student passionate about
 ### 🗄️ Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,vercel,supabase" />
 </p>
 
 ---
