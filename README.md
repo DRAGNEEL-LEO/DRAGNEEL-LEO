@@ -82,7 +82,7 @@ An object detection and tracking project focused on identifying and tracking obj
 
 A language translation application designed to translate text between different languages using modern programming techniques and translation services.
 
-**Tech:** `Python` `Translation API`
+**Tech:** `HTML,CSS,JS` `Translation API`
 
 🔗 **[View Project →](https://github.com/DRAGNEEL-LEO/CodeAlpha_Language-Translation-Tool)**
 
